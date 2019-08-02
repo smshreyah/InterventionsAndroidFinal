@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.intervention2">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+
+    
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:resizeableActivity="true"
+        android:theme="@style/AppTheme">
+
+        <activity android:exported="true" android:name=".MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <service
+            android:enabled="true"
+            android:name=".UnlockAction.ScreenOnOffBackgroundService"
+            android:exported="true" />
+
+        <activity android:name=".UnlockAction.ScreenOnOffActivity" />
+
+        <receiver android:name=".Notification.NotificationReceiver">
+            <intent-filter>
+                <action android:name="YES_ACTION"/>
+                <action android:name="NO_ACTION"/>
+            </intent-filter>
+        </receiver>
+
+        <receiver android:name=".UnlockAction.ScreenOnOffReceiver" />
+
+        <receiver android:name=".Notification.AlarmReceiver" />
+        <service android:name=".Notification.AlarmService" />
+
+        <activity android:name=".Interventions.SoulOp10"/>
+        <activity android:name=".Interventions.SoulOp9" />
+        <activity android:name=".Interventions.SoulOp8" />
+        <activity android:name=".Interventions.SoulOp7" />
+        <activity android:name=".Interventions.SoulOp6" />
+        <activity android:name=".Interventions.SoulOp5" />
+        <activity android:name=".Interventions.SoulOp4" />
+        <activity android:name=".Interventions.SoulOp3" />
+        <activity android:name=".Interventions.SoulOp2" />
+        <activity android:name=".Interventions.SoulOp1" />
+        <activity android:name=".Interventions.MindOp10" />
+        <activity android:name=".Interventions.MindOp9" />
+        <activity android:name=".Interventions.MindOp8" />
+        <activity android:name=".Interventions.MindOp7" />
+        <activity android:name=".Interventions.MindOp6" />
+        <activity android:name=".Interventions.MindOp5" />
+        <activity android:name=".Interventions.MindOp4" />
+        <activity android:name=".Interventions.MindOp3" />
+        <activity android:name=".Interventions.MindOp2" />
+        <activity android:name=".Interventions.MindOp1" />
+        <activity android:name=".Interventions.HeartOp10" />
+        <activity android:name=".Interventions.HeartOp9" />
+        <activity android:name=".Interventions.HeartOp8" />
+        <activity android:name=".UnlockAction.FollowUp" />
+        <activity android:name=".InterventionAsk" />
+        <activity android:name=".GeneralFeelingSurvey" />
+        <activity android:name=".Interventions.HeartOp6" />
+        <activity android:name=".Interventions.HeartOp5" />
+        <activity android:name=".Interventions.HeartOp4" />
+        <activity android:name=".Interventions.HeartOp3" />
+        <activity android:name=".Interventions.HeartOp2" />
+        <activity android:name=".Interventions.HeartOp1" />
+        <activity android:name=".Interventions.InterventionOp10" />
+        <activity android:name=".Interventions.InterventionOp9" />
+        <activity android:name=".Interventions.InterventionOp7" />
+        <activity android:name=".Interventions.InterventionOp8" />
+        <activity android:name=".Interventions.InterventionOp6" />
+        <activity android:name=".Interventions.InterventionOp5" />
+        <activity android:name=".Interventions.InterventionOp4" />
+        <activity android:name=".Interventions.InterventionOp3" />
+        <activity android:name=".Interventions.InterventionOp2" />
+        <activity android:name=".Interventions.InterventionOp1" />
+
+        <provider
+            android:name="com.aware.providers.Linear_Accelerometer_Provider"
+            android:authorities="${applicationId}.provider.accelerometer.linear"
+            android:exported="true"
+            android:readPermission="com.aware.READ_CONTEXT_DATA"
+            android:writePermission="com.aware.WRITE_CONTEXT_DATA"
+            >
+        </provider>
+
+    </application>
+</manifest>
