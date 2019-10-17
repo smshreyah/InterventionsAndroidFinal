@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.denzilferreira.aware-client:com.aware.plugin.google.activity_recognition:master-SNAPSHOT@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/769ed1c4ac2e9d0b1bdb2975b3f68cf3/com.aware.plugin.google.activity_recognition-master-SNAPSHOT/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/769ed1c4ac2e9d0b1bdb2975b3f68cf3/com.aware.plugin.google.activity_recognition-master-SNAPSHOT/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

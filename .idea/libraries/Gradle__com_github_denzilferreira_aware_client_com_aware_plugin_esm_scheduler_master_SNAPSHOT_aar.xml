@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.denzilferreira.aware-client:com.aware.plugin.esm.scheduler:master-SNAPSHOT@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f89fecf9f559f3c94d381cac4871d4b7/com.aware.plugin.esm.scheduler-master-SNAPSHOT/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f89fecf9f559f3c94d381cac4871d4b7/com.aware.plugin.esm.scheduler-master-SNAPSHOT/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

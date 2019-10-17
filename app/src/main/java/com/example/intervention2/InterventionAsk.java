@@ -20,7 +20,7 @@ public class InterventionAsk extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_intervention_ask);
-        /
+
 
         alertButton_yes = (Button) findViewById(R.id.button_ask_yes);
         alertButton_no = (Button) findViewById(R.id.button_ask_no);

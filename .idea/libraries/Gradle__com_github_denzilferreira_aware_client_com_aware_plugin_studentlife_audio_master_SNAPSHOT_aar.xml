@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.denzilferreira.aware-client:com.aware.plugin.studentlife.audio:master-SNAPSHOT@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/854740cbc53ef5ba551ac59896470ed6/com.aware.plugin.studentlife.audio-master-SNAPSHOT/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/854740cbc53ef5ba551ac59896470ed6/com.aware.plugin.studentlife.audio-master-SNAPSHOT/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/854740cbc53ef5ba551ac59896470ed6/com.aware.plugin.studentlife.audio-master-SNAPSHOT/jars/libs/armeabi.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

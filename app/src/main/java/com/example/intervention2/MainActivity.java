@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
         Aware.startAccelerometer(getApplicationContext());
 
         //Joining AWARE study
-        Aware.joinStudy(getApplicationContext(), "https://compwell.ece.rice.edu/AWARE/index.php/webservice/index/6/mI0Vk0mREHoC");
+        Aware.joinStudy(getApplicationContext(), "https://compwell.ece.rice.edu/AWARE/index.php/webservice/index/2/Yc0ElAuSrvwv");
 
         //Screen Activity (AWARE)
         Aware.setSetting(getApplicationContext(), Aware_Preferences.STATUS_SCREEN, true);

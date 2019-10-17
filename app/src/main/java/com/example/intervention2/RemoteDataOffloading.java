@@ -39,7 +39,7 @@ public class RemoteDataOffloading extends Service {
             //Get the last 1000 records from accelerometer
             Cursor accelerometer_data = getContentResolver().query(Accelerometer_Provider.Accelerometer_Data.CONTENT_URI, null, null, null, Accelerometer_Provider.Accelerometer_Data.TIMESTAMP + "DESC LIMIT 1000");
             if (accelerometer_data != null && accelerometer_data.getCount() > 0) {
-                Https https = new Https(getResources().openRawResource(R.raw.compwell_2)); //put your certificate in /res/raw/your_certificate.crt
+                Https https = new Https(getResources().openRawResource(R.raw.compwell)); //put your certificate in /res/raw/your_certificate.crt
                 Hashtable<String, String> postData = new Hashtable<>();
                 postData.put("accelerometer_data", DatabaseHelper.cursorToString(accelerometer_data));
                 https.dataPOST("https://compwell.ece.rice.edu", postData, false); //set to true if your server supports gzip compression

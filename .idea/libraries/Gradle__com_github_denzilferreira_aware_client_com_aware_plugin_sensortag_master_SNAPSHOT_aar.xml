@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.denzilferreira.aware-client:com.aware.plugin.sensortag:master-SNAPSHOT@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/515ac2a490ec4ce160d9ae12230f3291/com.aware.plugin.sensortag-master-SNAPSHOT/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/515ac2a490ec4ce160d9ae12230f3291/com.aware.plugin.sensortag-master-SNAPSHOT/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

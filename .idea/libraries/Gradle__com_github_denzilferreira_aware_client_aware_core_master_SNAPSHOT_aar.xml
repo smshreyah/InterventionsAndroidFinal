@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.denzilferreira.aware-client:aware-core:master-SNAPSHOT@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/99783f38e001bcd002a793add9d8e97b/jetified-aware-core-master-SNAPSHOT/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/99783f38e001bcd002a793add9d8e97b/jetified-aware-core-master-SNAPSHOT/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.denzilferreira.aware-client/aware-core/master-SNAPSHOT/3cb32e05e0e0877a415d0c4092f9991a4019c40c/aware-core-master-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
