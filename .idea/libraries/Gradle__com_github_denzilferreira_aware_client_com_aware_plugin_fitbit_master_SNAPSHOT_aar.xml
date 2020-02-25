@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.denzilferreira.aware-client:com.aware.plugin.fitbit:master-SNAPSHOT@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f74d6d7869966aebc8edae9acc8e8184/com.aware.plugin.fitbit-master-SNAPSHOT/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f74d6d7869966aebc8edae9acc8e8184/com.aware.plugin.fitbit-master-SNAPSHOT/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/aacf8e031a3cc57e953973a64df30633/com.aware.plugin.fitbit-master-SNAPSHOT/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/aacf8e031a3cc57e953973a64df30633/com.aware.plugin.fitbit-master-SNAPSHOT/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

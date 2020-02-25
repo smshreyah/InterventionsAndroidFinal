@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.denzilferreira.aware-client:com.aware.plugin.device_usage:master-SNAPSHOT@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/831eda75dfba71cf82bee18a7471175f/com.aware.plugin.device_usage-master-SNAPSHOT/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/831eda75dfba71cf82bee18a7471175f/com.aware.plugin.device_usage-master-SNAPSHOT/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/592d01d5f769501309dfb7e54e804f1d/com.aware.plugin.device_usage-master-SNAPSHOT/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/592d01d5f769501309dfb7e54e804f1d/com.aware.plugin.device_usage-master-SNAPSHOT/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

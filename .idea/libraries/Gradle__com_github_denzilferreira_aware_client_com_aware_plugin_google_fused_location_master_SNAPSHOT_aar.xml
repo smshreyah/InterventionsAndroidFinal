@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.denzilferreira.aware-client:com.aware.plugin.google.fused_location:master-SNAPSHOT@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/041bf62cd9a09796ebd943b360286561/com.aware.plugin.google.fused_location-master-SNAPSHOT/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/041bf62cd9a09796ebd943b360286561/com.aware.plugin.google.fused_location-master-SNAPSHOT/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/130d80792eef1d018a5fb89b640b6b35/com.aware.plugin.google.fused_location-master-SNAPSHOT/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/130d80792eef1d018a5fb89b640b6b35/com.aware.plugin.google.fused_location-master-SNAPSHOT/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.denzilferreira.aware-client:com.aware.plugin.sentimental:master-SNAPSHOT@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/08ae25b2840c58eec2a5543f7b82f1fb/com.aware.plugin.sentimental-master-SNAPSHOT/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/08ae25b2840c58eec2a5543f7b82f1fb/com.aware.plugin.sentimental-master-SNAPSHOT/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bd4132c3ff42c7285ac97b794ffa454b/com.aware.plugin.sentimental-master-SNAPSHOT/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bd4132c3ff42c7285ac97b794ffa454b/com.aware.plugin.sentimental-master-SNAPSHOT/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

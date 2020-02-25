@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.ebanx:swipe-button:0.4.0@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cdf2bad3596b655071c1e68dd9476486/jetified-swipe-button-0.4.0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cdf2bad3596b655071c1e68dd9476486/jetified-swipe-button-0.4.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/40a4bbbc78118ffe1178703f8286519f/jetified-swipe-button-0.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/40a4bbbc78118ffe1178703f8286519f/jetified-swipe-button-0.4.0/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ebanx/swipe-button/0.4.0/6dcd7e59abb094442653339e586541d8ec9970b9/swipe-button-0.4.0-javadoc.jar!/" />
